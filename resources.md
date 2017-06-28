@@ -29,6 +29,16 @@
 
 - [Predicting Flu Deaths with R](https://shiring.github.io/machine_learning/2016/11/27/flu_outcome_ML_post?imm_mid=0eb8e0&cmp=em-data-na-na-newsltr_20161214)
 
+### Statistics, Mathematics, Modeling
+- [Frequentism and Bayesianism V: Model Selection](https://jakevdp.github.io/blog/2015/08/07/frequentism-and-bayesianism-5-model-selection)
+- [Hackermath](https://github.com/amitkaps/hackermath) Jupyter notebooks with regressions, resampling, etc.
+- [Markov Chain Monte Carlo Without all the Bullshit](https://jeremykun.com/2015/04/06/markov-chain-monte-carlo-without-all-the-bullshit)
+- [ANOVA How To](http://www.statisticshowto.com/anova/)
+
+### Data Engineering
+- [Building Data Pipelines with Microsoft R Server and Azure Data Factory](https://github.com/Azure-Samples/data-factory-r-server-apache-spark-pipeline/blob/master/README.md)
+
+
 ### AB Testing
 
 - [AB Testing Process and Examples using R](http://rstudio-pubs-static.s3.amazonaws.com/201749_9fc280333a5c4f448687e1d99b9bdf76.html)
@@ -42,5 +52,8 @@
 ## General Programming
 
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books)  There are some great books on C for python users.
+- [20 Python Libraries You Should be Using](http://www.oreilly.com/programming/free/20-python-libraries-you-arent-using-but-should.csp?imm_mid=0e7e3e&cmp=em-prog-na-lp-saca16_nurture_em6_20_python_libraries)
+- [How to write Python Libraries](https://jeffknupp.com/blog/2014/04/03/dont-write-python-scripts-write-python-libraries/)
+
 
 
