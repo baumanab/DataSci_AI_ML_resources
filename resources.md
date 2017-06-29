@@ -26,6 +26,8 @@
 - [A great CNN in Tensorflow Tutorial](http://adventuresinmachinelearning.com/)
 - [Adventures in Machine Learning](http://adventuresinmachinelearning.com/)
 - [Another Great Book on NNs](http://neuralnetworksanddeeplearning.com/index.html)
+- [Coursera Backpropogation video](https://www.coursera.org/learn/neural-networks/lecture/gcNo6/the-backpropagation-algorithm-12-min)
+- [Deep Learning in 7 lines of code](https://chatbotslife.com/deep-learning-in-7-lines-of-code-7879a8ef8cfb?imm_mid=0f1262)
 
 
 
@@ -35,6 +37,7 @@
 
 - [Predicting Flu Deaths with R](https://shiring.github.io/machine_learning/2016/11/27/flu_outcome_ML_post?imm_mid=0eb8e0&cmp=em-data-na-na-newsltr_20161214)
 - [Data Boot Camp](https://github.com/DaveBackus/Data_Bootcamp_Book/blob/master/pandas-input.md)
+- [Modern PANDAS](https://tomaugspurger.github.io/modern-1.html) Includes some capabilities from 2017 releases, including method chaining
 
 
 ### Statistics, Mathematics, Modeling
@@ -46,6 +49,7 @@
 
 ### Data Engineering
 - [Building Data Pipelines with Microsoft R Server and Azure Data Factory](https://github.com/Azure-Samples/data-factory-r-server-apache-spark-pipeline/blob/master/README.md)
+- [R Data Validation Package AssertR](https://ropensci.org/blog/blog/2017/04/11/assertr?imm_mid=0f1262&cmp=em-data-na-na-newsltr_20170426)
 
 
 ### AB Testing
@@ -64,6 +68,10 @@
 - [20 Python Libraries You Should be Using](http://www.oreilly.com/programming/free/20-python-libraries-you-arent-using-but-should.csp?imm_mid=0e7e3e&cmp=em-prog-na-lp-saca16_nurture_em6_20_python_libraries)
 - [How to write Python Libraries](https://jeffknupp.com/blog/2014/04/03/dont-write-python-scripts-write-python-libraries/)
 - [Software development skills for data scientists](http://treycausey.com/software_dev_skills.html)
+
+## NLP
+- [How to Compare Document Similiarity in Python](https://www.oreilly.com/learning/how-do-i-compare-document-similarity-using-python?imm_mid=0f1262&cmp=em-data-na-na-newsltr_20170426)
+- 
 
 
 
