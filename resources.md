@@ -71,6 +71,7 @@
 
 ### Creating Python Packages
 - [Hitchhikers Guide To Packaging](http://the-hitchhikers-guide-to-packaging.readthedocs.io/en/latest/quickstart.html)
+- [Read the Docs Packaging](http://python-packaging.readthedocs.io/en/latest/index.html)
 
 ## NLP
 - [How to Compare Document Similiarity in Python](https://www.oreilly.com/learning/how-do-i-compare-document-similarity-using-python?imm_mid=0f1262&cmp=em-data-na-na-newsltr_20170426)
