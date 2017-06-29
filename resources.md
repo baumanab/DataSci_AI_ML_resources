@@ -69,6 +69,9 @@
 - [How to write Python Libraries](https://jeffknupp.com/blog/2014/04/03/dont-write-python-scripts-write-python-libraries/)
 - [Software development skills for data scientists](http://treycausey.com/software_dev_skills.html)
 
+### Creating Python Packages
+- [Hitchhikers Guide To Packaging](http://the-hitchhikers-guide-to-packaging.readthedocs.io/en/latest/quickstart.html)
+
 ## NLP
 - [How to Compare Document Similiarity in Python](https://www.oreilly.com/learning/how-do-i-compare-document-similarity-using-python?imm_mid=0f1262&cmp=em-data-na-na-newsltr_20170426)
 - 
