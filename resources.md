@@ -28,6 +28,7 @@
 - [Another Great Book on NNs](http://neuralnetworksanddeeplearning.com/index.html)
 - [Coursera Backpropogation video](https://www.coursera.org/learn/neural-networks/lecture/gcNo6/the-backpropagation-algorithm-12-min)
 - [Deep Learning in 7 lines of code](https://chatbotslife.com/deep-learning-in-7-lines-of-code-7879a8ef8cfb?imm_mid=0f1262)
+- [Yhat Deep Learning for Chess](http://blog.yhat.com/posts/deep-learning-chess.html)
 
 
 
@@ -37,7 +38,10 @@
 
 - [Predicting Flu Deaths with R](https://shiring.github.io/machine_learning/2016/11/27/flu_outcome_ML_post?imm_mid=0eb8e0&cmp=em-data-na-na-newsltr_20161214)
 - [Data Boot Camp](https://github.com/DaveBackus/Data_Bootcamp_Book/blob/master/pandas-input.md)
-- [Modern PANDAS](https://tomaugspurger.github.io/modern-1.html) Includes some capabilities from 2017 releases, including method chaining
+- [Modern PANDAS](https://tomaugspurger.github.io/modern-1.html) Includes some capabilities from 2017 releases, including method chaining)
+
+### Analysis Walkthroughs and Tutorials
+- [Yhat NYC Subway Math](http://blog.yhat.com/posts/subway-math.html)
 
 
 ### Statistics, Mathematics, Modeling
@@ -75,7 +79,10 @@
 
 ## NLP
 - [How to Compare Document Similiarity in Python](https://www.oreilly.com/learning/how-do-i-compare-document-similarity-using-python?imm_mid=0f1262&cmp=em-data-na-na-newsltr_20170426)
-- 
-
-
+)
+## Data Visualization
+- [D3 Express, A Better way to Code Article by Mike Bostock](https://medium.com/@mbostock/a-better-way-to-code-2b1d2876a3a0)
+)
+## R
+- [R for Excel Users](http://blog.yhat.com/posts/R-for-excel-users.html)
 
