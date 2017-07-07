@@ -11,10 +11,13 @@
 
 - [Advice for Applying Machine Learning](https://jmetzen.github.io/2015-01-29/ml_advice.html))
 - [How to Stack Models](https://burakhimmetoglu.com/2016/12/01/stacking-models-for-improved-predictions/?imm_mid=0eb541&cmp=em-data-na-na-newsltr_20161207)
-- [Google ML Best Practices](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
+- [Google ML Best Practices](http://martin.zinkevich.org/)/rules_of_ml.pdf)
 - [Yhat, Automated ML](http://blog.yhat.com/posts/state-of-automl.html)
 - [Yhat, Self Organizing Maps Part 1](http://blog.yhat.com/posts/self-organizing-maps-1.html)
 - [Yhat, Self Organising Maps Part 2](http://blog.yhat.com/posts/self-organizing-maps-2.html)
+- [How to Handle Imbalanced Data in ML](http://machinelearningmastery.com/tactics-to-combat-imbalanced-classes-in-your-machine-learning-dataset/)
+- [Machine Learning Mastery Blog Post on Performance Metrics](http://machinelearningmastery.com/classification-accuracy-is-not-enough-more-performance-measures-you-can-use/)
+- [Yhat Intro to Classification using Harry Potter Data](http://blog.yhat.com/posts/harry-potter-classification.html)
 
 ## BI
 
@@ -94,4 +97,11 @@
 )
 ## R
 - [R for Excel Users](http://blog.yhat.com/posts/R-for-excel-users.html)
+
+## Github
+
+- [How to Pull Request from Fork 1](https://gist.github.com/Chaser324/ce0505fbed06b947d962)
+- [How to Pull Request from Fork 2](
+https://help.github.com/articles/creating-a-pull-request-from-a-fork/)
+
 
