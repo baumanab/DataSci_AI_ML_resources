@@ -109,4 +109,7 @@ https://help.github.com/articles/creating-a-pull-request-from-a-fork/)
 ## D3.js
 - [Hitchikers Guide to d3.js](https://medium.com/@enjalot/the-hitchhikers-guide-to-d3-js-a8552174733a)
 
+## Jupyter Notebook
+-[How to user Jupyter notebook remotely](http://amber-md.github.io/pytraj/latest/tutorials/remote_jupyter_notebook.html)
+
 
