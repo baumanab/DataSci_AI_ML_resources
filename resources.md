@@ -18,6 +18,7 @@
 - [How to Handle Imbalanced Data in ML](http://machinelearningmastery.com/tactics-to-combat-imbalanced-classes-in-your-machine-learning-dataset/)
 - [Machine Learning Mastery Blog Post on Performance Metrics](http://machinelearningmastery.com/classification-accuracy-is-not-enough-more-performance-measures-you-can-use/)
 - [Yhat Intro to Classification using Harry Potter Data](http://blog.yhat.com/posts/harry-potter-classification.html)
+- [Sklearn Imbalanced Learn](https://github.com/scikit-learn-contrib/imbalanced-learn/blob/master/README.rst)
 
 ## BI
 
@@ -40,7 +41,8 @@
 - [Another Great Book on NNs](http://neuralnetworksanddeeplearning.com/index.html)
 - [Coursera Backpropogation video](https://www.coursera.org/learn/neural-networks/lecture/gcNo6/the-backpropagation-algorithm-12-min)
 - [Deep Learning in 7 lines of code](https://chatbotslife.com/deep-learning-in-7-lines-of-code-7879a8ef8cfb?imm_mid=0f1262)
-- [Yhat Deep Learning for Chess](http://blog.yhat.com/posts/deep-learning-chess.html)
+- [Yhat Deep Learning for Chess](http://blog.yhat.com/posts/deep-learning-chess.html))
+- [Deep Learning in Medicine](https://blog.cardiogr.am/applying-artificial-intelligence-in-medicine-our-early-results-78bfe7605d32)
 
 
 
@@ -103,5 +105,8 @@
 - [How to Pull Request from Fork 1](https://gist.github.com/Chaser324/ce0505fbed06b947d962)
 - [How to Pull Request from Fork 2](
 https://help.github.com/articles/creating-a-pull-request-from-a-fork/)
+
+## D3.js
+- [Hitchikers Guide to d3.js](https://medium.com/@enjalot/the-hitchhikers-guide-to-d3-js-a8552174733a)
 
 
