@@ -18,7 +18,8 @@
 - [How to Handle Imbalanced Data in ML](http://machinelearningmastery.com/tactics-to-combat-imbalanced-classes-in-your-machine-learning-dataset/)
 - [Machine Learning Mastery Blog Post on Performance Metrics](http://machinelearningmastery.com/classification-accuracy-is-not-enough-more-performance-measures-you-can-use/)
 - [Yhat Intro to Classification using Harry Potter Data](http://blog.yhat.com/posts/harry-potter-classification.html)
-- [Sklearn Imbalanced Learn](https://github.com/scikit-learn-contrib/imbalanced-learn/blob/master/README.rst)
+- [Sklearn Imbalanced Learn](https://github.com/scikit-learn-contrib/imbalanced-learn/blob/master/README.rst))
+- [A guide to model Ensembling](https://medium.com/weightsandbiases/an-introduction-to-model-ensembling-63effc2ca4b3?imm_mid=0f4c20&cmp=em-data-na-na-newsltr_20170726)
 
 ## BI
 
