@@ -45,6 +45,9 @@
 - [Yhat Deep Learning for Chess](http://blog.yhat.com/posts/deep-learning-chess.html))
 - [Deep Learning in Medicine](https://blog.cardiogr.am/applying-artificial-intelligence-in-medicine-our-early-results-78bfe7605d32)
 
+#### NLP
+- [Tensorflow Machine Translation System](https://research.googleblog.com/2017/07/building-your-own-neural-machine.html)
+
 
 
 ## Data Science
@@ -108,9 +111,13 @@
 https://help.github.com/articles/creating-a-pull-request-from-a-fork/)
 
 ## D3.js
-- [Hitchikers Guide to d3.js](https://medium.com/@enjalot/the-hitchhikers-guide-to-d3-js-a8552174733a)
+- [Hitchikers Guide to d3.js](https://medium.com/@enjalot/the-hitchhikers-guide-to-d3-js-a8552174733a))
 
 ## Jupyter Notebook
 -[How to user Jupyter notebook remotely](http://amber-md.github.io/pytraj/latest/tutorials/remote_jupyter_notebook.html)
+
+## Health Care Related
+- [Method to apply deep learning to health care data while retaining privacy](http://www.biorxiv.org/content/early/2017/07/05/159756.1)
+- [CNN Arythmia Detection](https://stanfordmlgroup.github.io/projects/ecg/)
 
 
